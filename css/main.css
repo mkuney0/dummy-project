@@ -3,3 +3,6 @@ h2 {
 	color: black;
 }
 
+img {
+	max-width: 350px;
+}
